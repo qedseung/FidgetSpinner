@@ -155,9 +155,6 @@
     <Compile Include="AppDelegate.cs" />
   </ItemGroup>
   <ItemGroup>
-    <BundleResource Include="..\HandSpinner\Content\taylorsprite.png">
-      <Link>Content\taylorsprite.png</Link>
-    </BundleResource>
     <BundleResource Include="..\HandSpinner\Content\Fidget1.png">
       <Link>Content\Fidget1.png</Link>
     </BundleResource>

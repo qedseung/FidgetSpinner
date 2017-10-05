@@ -73,7 +73,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
-    <None Include="Content\taylorsprite.png" />
     <None Include="Content\Fidget1.png" />
     <None Include="Content\Fidget2.png" />
     <None Include="Content\Fidget3.png" />
